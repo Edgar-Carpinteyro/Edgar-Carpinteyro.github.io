@@ -15,7 +15,7 @@ const MyProjects = () => {
                 <div className="row project-container">
                   <div className="card text-bg-dark mb-3 project-image">
                     <img
-                      src="/images/projects/art-fest.jpg"
+                      src="/public/images/projects/art-fest.jpg"
                       className="card-img-top"
                       alt="art and wine festival logo"
                       height="150px"
