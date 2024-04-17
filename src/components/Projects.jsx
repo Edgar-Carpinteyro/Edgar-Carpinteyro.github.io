@@ -86,15 +86,15 @@ const MyProjects = () => {
 
                   <div className="card text-bg-dark mb-3 project-image" >
                     <img
-                      src="/images/projects/teachers.png"
+                      src="/images/projects/comedy.jpg"
                       className="card-img-top"
                       alt="..."
                       height="150px"
                     />
                     <div className="card-body">
-                      <h5 className="card-title">Non-profit Website</h5>
+                      <h5 className="card-title">Stand-Up Comedy App</h5>
                       <a
-                        href="https://edgar-carpinteyro.github.io/new-teacher-center/"
+                        href="https://movie-app-pi-virid.vercel.app/"
                         className="btn btn-primary"
                       >
                         Explore
